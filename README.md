@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Sarcastic jokes**
 
-- 📫 How to reach me **sleeperagent151@gmail.com**
+- 📫 How to reach me **janis.ruduks157@gmail.com**
 
 - ⚡ Fun fact **Failing is fun**
 
