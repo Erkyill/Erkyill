@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erkyill&label=Profile%20views&color=0e75b6&style=flat" alt="erkyill" /> </p>
 
-- 🔭 I’m currently working on **Random projects**
+- 🔭 I’m currently working on **Personal projects and ideas**
 
-- 🌱 I’m currently learning **Python, c#**
+- 🌱 I’m currently learning **Python, C#, Javascript, and anything I can get my hands on**
 
 - 👯 I’m looking to collaborate on [FOS](https://github.com/Erkyill/POS-DIY-Python)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Erkyill](https://github.com/Erkyill)
 
-- 💬 Ask me about **Sarcastic jokes**
+- 💬 Ask me about **Sarcastic jokes, crazy ideas that makes no sense but will in the future**
 
 - 📫 How to reach me **janis.ruduks157@gmail.com**
 
